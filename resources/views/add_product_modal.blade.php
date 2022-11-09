@@ -9,7 +9,7 @@
               </div>
               <div class="modal-body">
 
-                <div class="errMsgContainer">
+                <div class="errMsgContainer mb-2">
 
                 </div>
 

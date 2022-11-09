@@ -9,3 +9,4 @@ use App\Http\Controllers\ProductController;
 // });
 
 Route::get('/',[ProductController::class,'products'])->name('products');
+Route::post('/add_product',[ProductController::class,'addProduct'])->name('add_product');
